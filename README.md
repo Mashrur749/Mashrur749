@@ -20,9 +20,9 @@ I believe in building not just software, but stories; not just platforms, but po
 ### 🤝 Let's Connect
 I'm always open to connecting with like-minded individuals, whether it's about tech, creativity, or business. Here's how you can reach me:
 
-- Mashrur.io (https://mashrur.io)
+- [mashrur.io](https://www.mashrur.io/)
 - [LinkedIn](https://www.linkedin.com/in/mashrurio/)
-- [Twitter]([Your_Twitter_Profile](https://twitter.com/mashrurio))
+- [Twitter](https://twitter.com/mashrurio)
 
 Let's build something amazing together.
 
