@@ -26,3 +26,6 @@ I'm always open to connecting with like-minded individuals, whether it's about t
 
 Let's build something amazing together.
 
+<a href="https://github.com/itaditya#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=itaditya&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
+</a>
