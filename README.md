@@ -28,19 +28,6 @@ My work is shaped by a combination of engineering, product thinking, storytellin
 * Human-centered productivity and attention design
 
 
-📊 GitHub Stats
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=mashrur749&show_icons=true&hide_border=true&count_private=true" alt="Mashrur's GitHub statistics" height="165" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashrur749&layout=compact&hide_border=true" alt="Mashrur's most-used languages" height="165" /> 
-</p>
-
-
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashrur749&hide_border=true" alt="Mashrur's GitHub contribution streak" /> 
-</p>
-
-
 ### 🤝 Let's Connect
 I'm always open to connecting with like-minded individuals, whether it's about tech, creativity, or business. Here's how you can reach me:
 
