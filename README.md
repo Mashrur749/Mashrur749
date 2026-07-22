@@ -1,28 +1,48 @@
-# Hello, I'm Mashrur👋
+# Hi, I’m Mashrur 👋
 
-## About Me
-I'm a Senior Developer with a passion for building scalable, efficient web applications and a knack for turning complex problems into simple solutions. With a solid foundation in Next.js, AWS, React, and Node, I've been crafting digital experiences that stand out for their ease of use and reliability. But my interests don't stop at coding; I'm deeply involved in writing, creative coding, storytelling, and entrepreneurship. I believe that technology is not just about codes and systems; it's about people, stories, and dreams.
+I’m a Senior Developer focused on building scalable web products, internal tools, and automation systems that simplify complex business problems.
 
-### 🚀 What I'm Working On
-I'm currently pioneering the **Tech Career Catalyst**, a venture dedicated to empowering individuals aiming to transition into the tech industry. With a blend of career guidance, mentorship, and insider knowledge, we're here to catalyze your journey into tech. It's more than a business; it's a movement towards creating a diverse, inclusive, and innovative tech community.
+My core stack includes **React, Next.js, TypeScript, Node.js, and AWS**, but I care more about outcomes than technologies: reducing operational friction, improving user experiences, and building systems that help teams move faster without adding unnecessary complexity.
 
-### 💡 My Philosophy
-I thrive on creativity and innovation. To me, the best part of being a developer is the opportunity to be continuously exposed to new challenges and grow. This ethos is what led me to merge my technical skills with my passion for entrepreneurship. 
+## 🚀 What I’m Building
 
-I believe in building not just software, but stories; not just platforms, but possibilities.
+I’m currently working on:
 
-### 🌱 I'm Currently Learning
-- Advanced architectural patterns in cloud computing
-- The art of storytelling in tech
-- Latest trends in creative coding
+* **BrowseWell** — an attention management system that helps people use the internet intentionally without blocking the useful parts.
+* **AI and workflow automation systems** — tools that help service businesses streamline sales, operations, delivery, and client onboarding.
+* Independent products and experiments at the intersection of software, productivity, and entrepreneurship.
+
+## 💡 How I Think
+
+I enjoy turning unclear, complicated problems into simple and reliable systems.
+
+I believe strong engineering is not just about writing clean code. It is about understanding the real constraint, making thoughtful trade-offs, and building something that creates measurable value for the people using it.
+
+My work is shaped by a combination of engineering, product thinking, storytelling, and entrepreneurship.
+
+## 🌱 What I’m Exploring
+
+* AI agents and business process automation
+* Cloud and distributed system architecture
+* Product strategy and independent software businesses
+* Human-centered productivity and attention design
+
+
+📊 GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mashrur749&show_icons=true&hide_border=true&count_private=true" alt="Mashrur's GitHub statistics" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashrur749&layout=compact&hide_border=true" alt="Mashrur's most-used languages" height="165" /> </p>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="Mashrur's GitHub contribution streak" /> </p>
 
 
 ### 🤝 Let's Connect
 I'm always open to connecting with like-minded individuals, whether it's about tech, creativity, or business. Here's how you can reach me:
 
-- [mashrur.io](https://mashrur.io/)
 - [LinkedIn](https://www.linkedin.com/in/mashrurio/)
 - [Twitter](https://twitter.com/mashrurio)
 
 Let's build something amazing together.
+
+
+
   
